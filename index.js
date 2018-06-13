@@ -7,3 +7,5 @@ function recursor() {
     recursor();
   });
 }
+
+alert("hello")
