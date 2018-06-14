@@ -8,4 +8,4 @@ function recursor() {
   });
 }
 
-recursor()
+recursor();
